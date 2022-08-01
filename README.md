@@ -20,10 +20,10 @@ The script helps convert nested json to a csv file -
 #### Terminal:
 
 ```
-YOURCOMPUTER:json-csv-converter user$ python3 -m venv venv
-YOURCOMPUTER:Python--json-csv-converter user$ source venv/bin/activate
-(venv) YOURCOMPUTER:Python--json-csv-converter user$ pip3 install -r requirements.txt
-(venv) YOURCOMPUTER:Python--json-csv-converter user$ python3 json-csv-converter.py
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+python3 json-csv-converter.py
 ```
 
 ### Example:
